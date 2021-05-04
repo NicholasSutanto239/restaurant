@@ -4,27 +4,28 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: Black;
+}
+.restaurantName {
+  font-size: 50px;
+  font-weight: bold;
 }
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: gray;
 }
-
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
-
 .topnav a:hover {
-  background-color: #ddd;
+  font-weight: bold;
   color: black;
 }
-
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
