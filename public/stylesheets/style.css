@@ -19,12 +19,12 @@ h3 {
   color: black;
 }
 
-.topnav {
+.navbar {
   overflow: hidden;
   background-color: orange;
 }
 
-.topnav a {
+.navbar a {
   float: left;
   color: black;
   text-align: center;
@@ -33,14 +33,9 @@ h3 {
   font-size: 17px;
 }
 
-.topnav a:hover {
+.navbar a:hover {
   font-weight: bold;
   color: black;
-}
-
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
 }
 
 table, th, td {
