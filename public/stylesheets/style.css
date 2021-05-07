@@ -58,6 +58,8 @@ table, th, td {
 .textCenter {
   text-align: center;
   font-size: 24px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .flex-container {
@@ -66,4 +68,8 @@ table, th, td {
   font-size: 20px;
   font-family: Arial;
   align-items: center;
+}
+
+.pageBG {
+  background-color: beige;
 }
